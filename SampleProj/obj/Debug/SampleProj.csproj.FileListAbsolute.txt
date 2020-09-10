@@ -1,0 +1,7 @@
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\bin\Debug\SampleProj.exe.config
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\bin\Debug\SampleProj.exe
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\bin\Debug\SampleProj.pdb
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\obj\Debug\SampleProj.csprojAssemblyReference.cache
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\obj\Debug\SampleProj.csproj.CoreCompileInputs.cache
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\obj\Debug\SampleProj.exe
+C:\Users\pisce\LTI-GET855\DevOps-Day3\SampleSoln\SampleProj\obj\Debug\SampleProj.pdb
