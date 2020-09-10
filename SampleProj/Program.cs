@@ -23,6 +23,7 @@ namespace SampleProj
                 Console.WriteLine("Invalid entry for Num2. Please try again");
             }
             Add();
+            Console.WriteLine("Hello");
 
         }
         private void Add()
