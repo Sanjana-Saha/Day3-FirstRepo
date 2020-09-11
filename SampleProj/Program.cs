@@ -24,6 +24,7 @@ namespace SampleProj
             }
             Add();
             Console.WriteLine("Hello");
+            Console.WriteLine("hey there!");
 
         }
         private void Add()
